@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1052" height="720" viewBox="0 0 1052 720" fill="none">
+  <rect width="1052" height="720" fill="#0F7A7A"/>
+  <circle cx="780" cy="160" r="220" fill="#0A5C5C" opacity=".5"/>
+  <circle cx="200" cy="580" r="160" fill="#0A5C5C" opacity=".45"/>
+  <!-- plant -->
+  <g transform="translate(120,380)">
+    <path d="M80 200 C80 120 40 80 20 40 C60 55 90 95 95 140 C110 90 150 55 195 45 C165 90 145 135 140 200 Z" fill="#C5E86C"/>
+    <rect x="70" y="195" width="55" height="70" rx="8" fill="#F4F7F0"/>
+  </g>
+  <!-- two speech bubbles = escuta -->
+  <g transform="translate(380,180)">
+    <rect x="0" y="0" width="280" height="160" rx="28" fill="#F4F7F0"/>
+    <path d="M60 155 L40 210 L110 155 Z" fill="#F4F7F0"/>
+    <rect x="40" y="45" width="200" height="14" rx="7" fill="#0F7A7A" opacity=".35"/>
+    <rect x="40" y="75" width="160" height="14" rx="7" fill="#0F7A7A" opacity=".35"/>
+    <rect x="40" y="105" width="120" height="14" rx="7" fill="#0F7A7A" opacity=".35"/>
+  </g>
+  <g transform="translate(620,360)">
+    <rect x="0" y="0" width="240" height="130" rx="26" fill="#C5E86C"/>
+    <path d="M170 125 L200 175 L140 125 Z" fill="#C5E86C"/>
+    <rect x="35" y="40" width="170" height="14" rx="7" fill="#0A5C5C" opacity=".4"/>
+    <rect x="35" y="70" width="130" height="14" rx="7" fill="#0A5C5C" opacity=".4"/>
+  </g>
+  <text x="526" y="680" text-anchor="middle" font-family="Georgia,serif" font-size="28" fill="#F4F7F0" opacity=".85">Sobre mim — placeholder</text>
+</svg>

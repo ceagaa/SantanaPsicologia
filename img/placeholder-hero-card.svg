@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="340" height="254" viewBox="0 0 340 254" fill="none" preserveAspectRatio="xMidYMid slice">
+  <rect width="340" height="254" fill="#0A5C5C"/>
+  <circle cx="288" cy="52" r="90" fill="#0F7A7A" opacity=".7"/>
+  <circle cx="52" cy="220" r="80" fill="#0F7A7A" opacity=".55"/>
+  <!-- location pin -->
+  <g transform="translate(78,44)">
+    <path d="M44 0C20 0 0 19.5 0 43.5 0 75 44 116 44 116S88 75 88 43.5C88 19.5 68 0 44 0Z" fill="#C5E86C"/>
+    <circle cx="44" cy="43" r="17" fill="#0A5C5C"/>
+  </g>
+  <!-- signal arcs = online -->
+  <g stroke="#F4F7F0" stroke-width="9" fill="none" stroke-linecap="round">
+    <path d="M196 148 A54 54 0 0 1 250 102"/>
+    <path d="M212 172 A30 30 0 0 1 242 142"/>
+  </g>
+  <circle cx="227" cy="192" r="10" fill="#F4F7F0"/>
+  <text x="170" y="238" text-anchor="middle" font-family="Arial,sans-serif" font-size="17" fill="#F4F7F0" opacity=".85">Presencial e Online — placeholder</text>
+</svg>
