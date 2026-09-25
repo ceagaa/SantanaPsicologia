@@ -1,0 +1,34 @@
+# ==========================================
+# DevSecOps & Security Hardening
+# ==========================================
+
+# Environment variables & secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+
+# AI Prompts, Agents & Internal Documentation
+*.md
+!README.md
+.agents/
+.opencode/
+prompts/
+docs/
+
+# Database Schemas & Models
+*.sql
+/prisma/migrations/
+/db/schemas/
+
+# ==========================================
+# OS & tooling noise
+# ==========================================
+Thumbs.db
+Desktop.ini
+.DS_Store
+*.log
+.playwright-mcp/
+node_modules/
