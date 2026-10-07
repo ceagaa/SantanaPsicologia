@@ -2088,7 +2088,7 @@ textarea.w-input, textarea.w-select {
   --text-color--text-alternate: var(--brand--green);
   --border-color--border-primary: var(--brand-color--cyan-550);
   --bg-color--bg-alternate: var(--brand-color--cyan-900);
-  --brand-color--cyan-500: #2d8086;
+  --brand-color--cyan-500: #01706d;
   --brand--white: #fff;
   --bg-color--bg-secondary: var(--brand-color--cyan-50);
   --text-color--text-white: var(--brand--white);
@@ -2100,8 +2100,8 @@ textarea.w-input, textarea.w-select {
   --background-color--background-warning\<deleted\|variable-0aa1a7ce-e851-b6b5-66db-1a1a96e8e04b\>: var(--base-color-system--warning-yellow\<deleted\|variable-b0ee00e7-091a-a3f5-1619-b09d07f4475a\>);
   --text-color--text-warning\<deleted\|variable-825aa1d8-b093-0b89-37c5-87d980df10f5\>: var(--base-color-system--warning-yellow-dark\<deleted\|variable-296491a7-483e-1229-36b5-e13808cc9004\>);
   --bg-color--bg-white: var(--brand--white);
-  --brand-color--cyan-900: #0a565c;
-  --brand-color--cyan-550: #2e8086;
+  --brand-color--cyan-900: #015a57;
+  --brand-color--cyan-550: #01a5a1;
   --brand--black: #000;
   --brand--gray-100: #e4e4e4;
   --brand--gray-50: #f4f4f4;
@@ -2120,10 +2120,10 @@ textarea.w-input, textarea.w-select {
   --new-base---accent-sky: #0ea5e9;
   --new-base---accent-cyan: #06b6d4;
   --border-color--border-alternate: white;
-  --brand-color--cyan-50: #f1f8f9;
-  --brand-color--cyan-100: #d5e6e7;
-  --brand-color--cyan-300: #92bdc0;
-  --brand-color--cyan-700: #116f76;
+  --brand-color--cyan-50: #eaf9f8;
+  --brand-color--cyan-100: #cdf1f0;
+  --brand-color--cyan-300: #7ed6d3;
+  --brand-color--cyan-700: #017e7b;
   --link-color--link-alternate: white;
   --new-base_sizes---fixed--0-75rem\<deleted\|variable-33112f74-a753-002f-eb90-523d6a64e0a2\>: .75rem;
   --base-color-system--warning-yellow\<deleted\|variable-b0ee00e7-091a-a3f5-1619-b09d07f4475a\>: #fcf8d8;
@@ -3861,7 +3861,7 @@ figcaption {
 .fs-styleguide_spacing {
   grid-column-gap: .5rem;
   grid-row-gap: .5rem;
-  background-image: linear-gradient(0deg, #0a565c5c, #fff0);
+  background-image: linear-gradient(0deg, #015a575c, #fff0);
   grid-template-rows: auto auto;
   grid-template-columns: 1fr;
   grid-auto-columns: 1fr;
@@ -4142,7 +4142,7 @@ figcaption {
 .fs-styleguide_empty-box {
   z-index: -1;
   border: 1px dashed var(--bg-color--bg-alternate);
-  background-color: #116f7633;
+  background-color: #017e7b33;
   min-width: 3rem;
   height: 3rem;
   position: relative;
@@ -4578,7 +4578,7 @@ figcaption {
 
 .fs-styleguide_spacer-box {
   border: 1px dashed var(--bg-color--bg-alternate);
-  background-color: #116f761a;
+  background-color: #017e7b1a;
   width: 100%;
   position: relative;
 }
@@ -5229,8 +5229,8 @@ figcaption {
   grid-column-gap: .625rem;
   grid-row-gap: .625rem;
   color: var(--text-color--text-tertiary);
-  background-color: #2e808633;
-  border: 1px solid #2d808666;
+  background-color: #01a5a133;
+  border: 1px solid #01a5a166;
   border-radius: 3.25rem;
   justify-content: center;
   align-items: center;
@@ -5447,7 +5447,7 @@ figcaption {
 
 .portfolio_gradient {
   pointer-events: none;
-  background-image: linear-gradient(#f1f8f900, #f1f8f9);
+  background-image: linear-gradient(#eaf9f800, #eaf9f8);
   height: 20rem;
   position: absolute;
   inset: auto 0% 0%;
@@ -6102,7 +6102,7 @@ figcaption {
 .service_cms-info {
   grid-column-gap: .625rem;
   grid-row-gap: .625rem;
-  background-color: #2e808633;
+  background-color: #01a5a133;
   border-radius: 3.25rem;
   flex: none;
   justify-content: center;
