@@ -3,5 +3,5 @@
   <circle cx="600" cy="100" r="120" fill="#0A5C5C" opacity=".5"/>
   <text x="80" y="200" font-family="Georgia,serif" font-size="140" fill="#C5E86C" opacity=".9">&#8220;</text>
   <text x="80" y="360" font-family="Georgia,serif" font-size="52" fill="#F4F7F0">Atendimento acolhedor!</text>
-  <text x="368" y="495" text-anchor="middle" font-family="Arial,sans-serif" font-size="20" fill="#F4F7F0" opacity=".7">Depoimento — placeholder</text>
+  <text x="368" y="495" text-anchor="middle" font-family="Arial,sans-serif" font-size="20" fill="#F4F7F0" opacity=".7">Depoimento, placeholder</text>
 </svg>
